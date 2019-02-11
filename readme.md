@@ -8,7 +8,7 @@ The **student-book-service** is built in Java using the Spring Boot technology. 
 
 The following is the service class or architecture diagram. 
 
-![class diagram](images/student-book-service-classes.gif)
+![class diagram](student-book-service-classes.gif)
 
 ### Service Architectural Elements
 
@@ -35,7 +35,7 @@ To build the service you need the following:
 API documentation is an essential part of a well rounded REST service. This example generates documentation from inline comments in the code. In particulare the example uses [Swagger](https://swagger.io/) the most popular REST API documentation standard. 
  
 The generated Swagger UI is similar to the following:
-![student-book-service-ui](images/student-book-service-ui.png) 
+![student-book-service-ui](student-book-service-ui.png) 
 
 ## Quick Start
 The following examples are executed on a Web server, for example Tomcat, running on localhost.  

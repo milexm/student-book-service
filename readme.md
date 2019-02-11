@@ -28,7 +28,7 @@ To build the service you need the following:
 - Your favorite IDE. We use [Eclipse](https://www.eclipse.org/).
 - [JDK 1.8+](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
 
-<div style="background-color:lightblue">📝You can download the <b>student-book-service</b> project on GitHub at this loaction: <a href="*" _target="_blank">TBD</a></div>
+
 
 
 ### About the Documentation
@@ -45,7 +45,7 @@ The following examples are executed on a Web server, for example Tomcat, running
 
 1. In Eclipse, right click on the **student-book-service** server app.
 1. From the drop down menu select **Run As->Spring Boot App**, as shon in the following figure.
- <img src="images/student-book-server-run.png" alt="server run" width="400" align="inline"></img>
+ <img src="student-book-server-run.png" alt="server run" width="400" align="inline"></img>
 3. If the port 8282 on which the service must run is busy perform the following steps (on Mac):
 
 		>> sudo lsof -i tcp:8282 /* display the processes running on port 8282 */

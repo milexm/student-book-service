@@ -118,7 +118,7 @@ You get the following response:
 
 	
 ### Using a Client App
-Noramlly you interact with the service using its API from within your clinet application. To see how to create and use such application, see [Student Book Service Client.md](Student Book Service Client.md). 
+Noramlly you interact with the service using its API from within your clinet application. To see how to create and use such application, refer to <a href="Student Book Service Client.md">Student Book Service Client</a>. 
 	
 
 ## API Reference
